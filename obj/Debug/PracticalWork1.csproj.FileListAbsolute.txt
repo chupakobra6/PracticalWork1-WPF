@@ -1,0 +1,16 @@
+C:\C#\PracticalWork1\bin\Debug\PracticalWork1.exe.config
+C:\C#\PracticalWork1\bin\Debug\PracticalWork1.exe
+C:\C#\PracticalWork1\bin\Debug\PracticalWork1.pdb
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1.csproj.AssemblyReference.cache
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1.csproj.SuggestedBindingRedirects.cache
+C:\C#\PracticalWork1\obj\Debug\MainWindow.g.cs
+C:\C#\PracticalWork1\obj\Debug\App.g.cs
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1_MarkupCompile.cache
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1_MarkupCompile.lref
+C:\C#\PracticalWork1\obj\Debug\MainWindow.baml
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1.g.resources
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1.Properties.Resources.resources
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1.csproj.GenerateResource.cache
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1.csproj.CoreCompileInputs.cache
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1.exe
+C:\C#\PracticalWork1\obj\Debug\PracticalWork1.pdb
